@@ -1,0 +1,26 @@
+{
+  "name": "valiant/yii2-misc",
+  "description": "Yii2 misc",
+  "type": "library",
+  "keywords": [
+    "yii2",
+    "extension",
+    " misc"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "ValianT",
+      "email": "mr.igor.prokofev@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "2amigos/yii2-transliterator-helper": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "valiant\\yii2\\": ""
+    }
+  }
+}
